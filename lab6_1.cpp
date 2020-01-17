@@ -8,4 +8,5 @@ int main() {
     output = (double) a-b/c;
     cout << "output:" << output << "\n";
     return 0;
+    
 }
