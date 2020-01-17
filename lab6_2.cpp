@@ -52,13 +52,7 @@ int main(){
     cout << name << ": ";
     cin >> word;
     
-    cout << "Fahsai: 555+ see you "<< day << ". Bye Bye \(^ ^)/";
+    cout << "Fahsai: 555+ see you "<< day << ". Bye Bye \\(^ ^)/";
 
     
-
-
-
-
-
-
 }
